@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Chetanya Mahana <br>IB Member @PECACM</h2>
+<h2 align="center">Hi 👋! I am Chetanya Mahana <br>EB Member @PECACM</h2>
 
 <p align="left">
  <a href="mailto:chetanyamahana@gmail.com" target="_blank"><img height="30" src="Resources/Images/SocialLinks/gmail.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
